@@ -1,0 +1,3 @@
+transformers
+qwen-vl-utils
+
