@@ -110,11 +110,14 @@ The MiMo-VL-7B series maintain full compatibility with the `Qwen2_5_VLForConditi
 ## V. Citation
 
 ```bibtex
-@misc{coreteam2025mimovl,
+@misc{coreteam2025mimovltechnicalreport,
       title={MiMo-VL Technical Report}, 
-      author={{Xiaomi LLM-Core Team}},
+      author={LLM-Core-Team Xiaomi},
       year={2025},
-      url={https://github.com/XiaomiMiMo/MiMo-VL}, 
+      eprint={2506.03569},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.03569}, 
 }
 ```
 
